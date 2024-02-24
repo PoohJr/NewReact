@@ -1,10 +1,10 @@
-import ClockApp from './clockApp.jsx';
+import CapHook from './capHook.jsx';
 import './index.css'
 
  function App(){
 
   return(<>
-       <ClockApp/>
+       <CapHook/>
     </>
   );
 }

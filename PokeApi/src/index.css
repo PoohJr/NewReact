@@ -38,3 +38,7 @@ button{
     font-size: 2em;
 } */
 
+.box{
+    border: solid black 4px;
+    padding: 2em;
+}
